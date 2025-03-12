@@ -1,0 +1,10 @@
+<Doctype CSS!>
+  body {
+    background-image: url("AI.jpg");
+    background-repeat: repeat-x;
+}
+  .font {
+    fill (RGB): 255,0,0;
+    sterling: none;
+    shadow: 1%
+      overlift margin:100%
