@@ -1,0 +1,28 @@
+<Doctype HTML!;>
+  <html>
+    <header>
+      <metacharset:UTF-8>
+      <language=en>
+      <title> UI TARS DESKTOP AI AGENT </title>
+    </header>
+    <body>
+      <h1> Welcome, what can I assist you with today?</h1>
+      <h7> UI AGENT </h7>
+      <li>
+        <ul></ul>
+        <br>
+        <ul></ul>
+      </li>
+    <href="settings.json">
+    </body>
+    <style>
+      <link {file type: css}>  
+        <href="css.code">
+        <font="contra" "12" "white">
+        <font="center-alignment">
+        <margin 1/2, 90*>
+      <var x=215>;
+      <obj c = css.code contents>;
+        <obj c+x*1>;
+    </style>
+ </html>
